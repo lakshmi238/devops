@@ -3,6 +3,7 @@ sg trying to push
 modifiy the lines
 something changes rdoinglearning git difmerging all diff filesg trying to push
 this change is from userb
+<<<<<<< Updated upstream
 trying to conflict
 df
 
@@ -33,3 +34,45 @@ g
 htzdhg
 s
 f
+=======
+ad
+sd
+sd
+s
+dsd
+sd
+dd
+c
+xc
+c
+
+
+cx
+cc
+c
+c
+c
+c
+c
+
+cc
+c
+c
+vv
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+
+v
+fff
+>>>>>>> Stashed changes
